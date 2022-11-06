@@ -4,3 +4,5 @@
 eMaker成田はチャレンジする人のためのシェアハウスです。
 eMakerは起業家、ITエンジニアなどを中心とするコミュニティの一つです。
 
+# ゴミの捨て方
+https://www.city.narita.chiba.jp/content/000132254.pdf
